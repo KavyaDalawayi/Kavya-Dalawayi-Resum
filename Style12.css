@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Continer{
+    width: 80%;
+    margin: auto;
+  /*  display: flex; */
+    border: 1px solid red;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+.main-section{
+    width: 100%;
+    display: flex;
+}
+.listing-order{
+    list-style: none;
+    
+}
+.aboutself{
+    width: 70%;
+    padding: 40px;
+    font-style: italic;
+}
+.passport{
+    width: 30%;
+    
+    
+}
+.image-adjust{
+    width: 80%;
+    height: 180px;
+    min-width: 112px;
+    
+}
+.seperator{
+    padding: 5px;
+}
+table,th,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr th{
+    padding: 0 10px 0 10px;
+
+
+}
+tr td{
+    text-align: center;
+    
+    
+}
+.Skills{
+    width:100%;
+    display:flex;
+    flex-direction: column;
+}
+.lang{
+    display:flex;
+}
+.lang div:first-child{
+    width:40%;
+    padding-left:20px ;
+}
+.lang div:last-child{
+    width:60%;
+}
+.progressbar{
+    width:95%;
+}
+.details1{
+    display: flex;
+    padding-left: 8%;
+}
+.details2{
+    display: flex;
+    padding-left: 8%;
+}
+.details3{
+    display: flex;
+    padding-left: 8%;
+}
+.details4{
+    display: flex;
+    padding-left: 8%;
+}
+.details5{
+    display: flex;
+    padding-left: 8%;
+}
+.header{
+    padding-left: 2%;
+    
+}
+
+.desc{
+    padding-left:8%;
+}
+.lang{
+    padding-left: 6%;
+}
+.table-part{
+    padding-left: 8%;
+}
+.paragraph{
+    padding-left: 8%;
+}
+.personal-details{
+    width: 70px;
+    margin:auto;
+}
+.detail div:first-child{
+    width:40%;
+}
+.detail div:last-child{
+    width:60%;
+}
+
+.header:hover{
+    height:20%;
+    border:1px solid red;
+    background-color: aqua;
+    width: 15%;
+    border-radius: 50%;
+}
+.color1{
+    font-size: large;
+   color: green;
+    }
+.color2{
+    
+    color: red;
+    font-size: large;
+        }
+.color3{
+    
+    color: blue;
+    font-size: large;
+       }
+.color4{
+    
+    color:purple;
+    font-size: large;
+        }
+.color5{
+    
+     color: orangered;
+     font-size: large;
+         }
+ .d1{
+     padding-left: 15%;
+ }
+ .d2{
+    padding-left: 10.5%;
+}
+.d3{
+    padding-left: 12.5%;
+}
+.d4{
+    padding-left: 15.5%;
+}
+.d5{
+    padding-left: 14%;
+}
